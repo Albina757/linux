@@ -49,4 +49,5 @@
   48 mv /opt/eve /home/humans
   49 tree /home
   50 history
-  51 history > history.txt
+  51 history > history
+
